@@ -1,8 +1,0 @@
-dist: jammy
-language: python
-python:
-- '3.10'
-install: travis_retry pip install tox-travis coverage
-script: tox -v
-jobs:
-  fast_finish: true
