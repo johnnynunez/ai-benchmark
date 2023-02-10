@@ -14,7 +14,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ai-benchmark",
-    version="0.1.3",
+    ersion="1.0.0",
     author="Andrey Ignatov",
     author_email="andrey@vision.ee.ethz.ch",
     scripts=['bin/ai-benchmark'],
