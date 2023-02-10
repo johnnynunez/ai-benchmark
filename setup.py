@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="ai-benchmark",
+    name="new-ai-benchmark",
     ersion="1.0.0",
     author="Andrey Ignatov",
     author_email="andrey@vision.ee.ethz.ch",
