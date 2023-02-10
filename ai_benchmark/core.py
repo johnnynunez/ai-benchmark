@@ -1,5 +1,7 @@
 import os
 import logging
+import warnings
+
 import numpy as np
 import tensorflow as tf
 from ai_benchmark import utils
@@ -15,7 +17,7 @@ class AIBenchmark:
 
         utils.print_intro()
 
-        np.warnings.filterwarnings('ignore')
+        warnings.filterwarnings('ignore')
 
         try:
             if verbose_level < 3:
