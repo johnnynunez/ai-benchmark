@@ -311,7 +311,7 @@ def get_platform_info():
 
 def get_cpu_model():
     try:
-        return cpuinfo.get_cpu_info()['brand']
+        return cpuinfo.get_cpu_info()['brand_raw']
     except:
         return "N/A"
 
