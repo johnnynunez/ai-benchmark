@@ -9,6 +9,6 @@ setuptools.setup(
     scripts=['bin/ai-benchmark'],
     long_description_content_type="text/markdown",
 
-    long_description=README,
+    long_description=long_description,
     packages=setuptools.find_packages(),
 )
