@@ -1,6 +1,6 @@
 [project]
 name = "new-ai-benchmark"
-version = "2.3.0"
+version = "2.4.0"
 authors = [
     { name = "Andrey Ignatov", email = "andrey@vision.ee.ethz.ch" }
 ]
