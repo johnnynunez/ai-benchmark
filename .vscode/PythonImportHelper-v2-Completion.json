@@ -1,0 +1,1026 @@
+[
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "importPath": "ai_benchmark",
+        "description": "ai_benchmark",
+        "isExtraImport": true,
+        "detail": "ai_benchmark",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "importPath": "ai_benchmark",
+        "description": "ai_benchmark",
+        "isExtraImport": true,
+        "detail": "ai_benchmark",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "ai_benchmark",
+        "description": "ai_benchmark",
+        "isExtraImport": true,
+        "detail": "ai_benchmark",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "ai_benchmark",
+        "description": "ai_benchmark",
+        "isExtraImport": true,
+        "detail": "ai_benchmark",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "importPath": "ai_benchmark",
+        "description": "ai_benchmark",
+        "isExtraImport": true,
+        "detail": "ai_benchmark",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "rnn_cell",
+        "importPath": "tensorflow.python.ops",
+        "description": "tensorflow.python.ops",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.ops",
+        "documentation": {}
+    },
+    {
+        "label": "tf",
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "isExtraImport": true,
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "np",
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "isExtraImport": true,
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "tf",
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "isExtraImport": true,
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "ai_benchmark.model_utils",
+        "description": "ai_benchmark.model_utils",
+        "isExtraImport": true,
+        "detail": "ai_benchmark.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "cpuinfo",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cpuinfo",
+        "description": "cpuinfo",
+        "detail": "cpuinfo",
+        "documentation": {}
+    },
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "virtual_memory",
+        "importPath": "psutil",
+        "description": "psutil",
+        "isExtraImport": true,
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "device_lib",
+        "importPath": "tensorflow.python.client",
+        "description": "tensorflow.python.client",
+        "isExtraImport": true,
+        "detail": "tensorflow.python.client",
+        "documentation": {}
+    },
+    {
+        "label": "parse_version",
+        "importPath": "pkg_resources",
+        "description": "pkg_resources",
+        "isExtraImport": true,
+        "detail": "pkg_resources",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "update_info",
+        "importPath": "ai_benchmark.update_utils",
+        "description": "ai_benchmark.update_utils",
+        "isExtraImport": true,
+        "detail": "ai_benchmark.update_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestConstructor",
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "isExtraImport": true,
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "ai_benchmark.models",
+        "description": "ai_benchmark.models",
+        "isExtraImport": true,
+        "detail": "ai_benchmark.models",
+        "documentation": {}
+    },
+    {
+        "label": "setuptools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "MainTest",
+        "kind": 6,
+        "importPath": "ai_benchmark.tests.functional",
+        "description": "ai_benchmark.tests.functional",
+        "peekOfCode": "class MainTest(unittest.TestCase):\n    def test_func(self):\n        console.main()",
+        "detail": "ai_benchmark.tests.functional",
+        "documentation": {}
+    },
+    {
+        "label": "MainTest",
+        "kind": 6,
+        "importPath": "ai_benchmark.tests.test_console",
+        "description": "ai_benchmark.tests.test_console",
+        "peekOfCode": "class MainTest(unittest.TestCase):\n    # @unittest.mock.patch('sys.argv', [])\n    @unittest.mock.patch('ai_benchmark.AIBenchmark.run')\n    def test_func(self, mock_run):\n        console.main()\n        self.assertTrue(mock_run.called)",
+        "detail": "ai_benchmark.tests.test_console",
+        "documentation": {}
+    },
+    {
+        "label": "RunTestsTest",
+        "kind": 6,
+        "importPath": "ai_benchmark.tests.test_utils",
+        "description": "ai_benchmark.tests.test_utils",
+        "peekOfCode": "class RunTestsTest(unittest.TestCase):\n    @unittest.mock.patch('tensorflow.python.client.session.Session.run')\n    def test_func(self, mock_run):\n        utils.run_tests(\n            training=True,\n            inference=True,\n            micro=False,\n            verbose=0,\n            use_cpu=None,\n            precision='dry',",
+        "detail": "ai_benchmark.tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "SubTest",
+        "kind": 6,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "class SubTest:\n    def __init__(self, batch_size, input_dimensions, output_dimensions, iterations, min_passes, max_duration, ref_time,\n                 loss_function=None, optimizer=None, learning_rate=None):\n        self.batch_size = batch_size\n        self.input_dimensions = input_dimensions\n        self.output_dimensions = output_dimensions\n        self.iterations = iterations\n        self.min_passes = min_passes\n        self.max_duration = max_duration\n        self.loss_function = loss_function",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "kind": 6,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "class Test:\n    def __init__(self, test_id, test_type, model, model_src, use_src, tests_training, tests_inference, tests_micro):\n        self.id = test_id\n        self.type = test_type\n        self.model = model\n        self.model_src = path.join(path.dirname(__file__), \"models/\" + model_src)\n        self.use_src = use_src\n        self.training = tests_training\n        self.inference = tests_inference\n        self.micro = tests_micro",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "TestConstructor",
+        "kind": 6,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "class TestConstructor:\n    BENCHMARK_TESTS = BENCHMARK_TESTS\n    def get_tests(self, test_ids=None):\n        tests = self.BENCHMARK_TESTS[::]\n        if test_ids is not None:\n            tests = [t for t in tests if str(t.id) in test_ids]\n        return tests",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "MOBILENET_V2",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "MOBILENET_V2 = Test(\n    test_id=1, test_type=\"classification\", model=\"MobileNet-V2\", model_src=\"mobilenet_v2.meta\",\n    use_src=False,\n    tests_training=[\n        SubTest(50, [224, 224, 3], [1001], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=265)\n        ],\n        tests_inference=[\n            SubTest(50, [224, 224, 3], [1001], 22, min_passes=5, max_duration=30, ref_time=75)\n        ],",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "INCEPTION_V3",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "INCEPTION_V3 = Test(\n    test_id=2, test_type=\"classification\", model=\"Inception-V3\", model_src=\"inception_v3.meta\",\n    use_src=False,\n    tests_training=[\n        SubTest(20, [346, 346, 3], [1001], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=275)\n    ],\n    tests_inference=[\n        SubTest(20, [346, 346, 3], [1001], 22, min_passes=5, max_duration=30, ref_time=85)\n    ],",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "INCEPTION_V4",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "INCEPTION_V4 = Test(\n    test_id=3, test_type=\"classification\", model=\"Inception-V4\", model_src=\"inception_v4.meta\",\n    use_src=False,\n    tests_training=[\n        SubTest(10, [346, 346, 3], [1001], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=290)\n    ],\n    tests_inference=[\n        SubTest(10, [346, 346, 3], [1001], 22, min_passes=5, max_duration=30, ref_time=68)\n    ],",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "INCEPTION_RESNET_V2",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "INCEPTION_RESNET_V2 = Test(\n    test_id=4, test_type=\"classification\", model=\"Inception-ResNet-V2\", use_src=False,\n    model_src=\"inception_resnet_v2.meta\",\n    tests_training=[\n        SubTest(8, [346, 346, 3], [1001], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=330)\n    ],\n    tests_inference=[\n        SubTest(10, [346, 346, 3], [1001], 22, min_passes=5, max_duration=30, ref_time=90)\n    ],",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "RESNET_V2_50",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "RESNET_V2_50 = Test(\n    test_id=5, test_type=\"classification\", model=\"ResNet-V2-50\", use_src=False,\n    model_src=\"resnet_v2_50.meta\",\n    tests_training=[\n        SubTest(10, [346, 346, 3], [1001], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=172)\n    ],\n    tests_inference=[\n        SubTest(10, [346, 346, 3], [1001], 22, min_passes=5, max_duration=30, ref_time=48)\n    ],",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "RESNET_V2_152",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "RESNET_V2_152 = Test(\n    test_id=6, test_type=\"classification\", model=\"ResNet-V2-152\", use_src=False,\n    model_src=\"resnet_v2_152.meta\",\n    tests_training=[\n        SubTest(10, [256, 256, 3], [1001], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=265)\n    ],\n    tests_inference=[\n        SubTest(10, [256, 256, 3], [1001], 22, min_passes=5, max_duration=30, ref_time=60)\n    ],",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "VGG_16",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "VGG_16 = Test(test_id=7, test_type=\"classification\", model=\"VGG-16\", use_src=False,\n     model_src=\"vgg_16.meta\",\n     tests_training=[SubTest(2, [224, 224, 3], [1000], 22, min_passes=5, max_duration=30,\n                             loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=190)],\n     tests_inference=[SubTest(20, [224, 224, 3], [1000], 22, min_passes=5, max_duration=30, ref_time=110)],\n     tests_micro=[SubTest(1, [224, 224, 3], [1000], 22, min_passes=5, max_duration=30, ref_time=56)]\n)\nSRCNN_9_5_5 = Test(\n    test_id=8, test_type=\"enhancement\", model=\"SRCNN 9-5-5\", model_src=\"srcnn.meta\", use_src=False,\n    tests_training=[SubTest(10, [512, 512, 3], [512, 512, 3], 22, min_passes=5, max_duration=30,",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "SRCNN_9_5_5",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "SRCNN_9_5_5 = Test(\n    test_id=8, test_type=\"enhancement\", model=\"SRCNN 9-5-5\", model_src=\"srcnn.meta\", use_src=False,\n    tests_training=[SubTest(10, [512, 512, 3], [512, 512, 3], 22, min_passes=5, max_duration=30,\n                             loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=285)],\n    tests_inference=[\n        SubTest(10, [512, 512, 3], [512, 512, 3], 22, min_passes=5, max_duration=30, ref_time=100),\n        SubTest(1, [1536, 1536, 3], [1536, 1536, 3], 22, min_passes=5, max_duration=30, ref_time=85)\n    ],\n    tests_micro=[\n        SubTest(1, [512, 512, 3], [512, 512, 3], 22, min_passes=5, max_duration=30, ref_time=10)",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "VGG_19_SUPER_RES",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "VGG_19_SUPER_RES = Test(\n    test_id=9, test_type=\"enhancement\", model=\"VGG-19 Super-Res\", model_src=\"vgg19.meta\", use_src=False,\n    tests_training=[\n        SubTest(10, [224, 224, 3], [224, 224, 3], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=274)],\n    tests_inference=[\n        SubTest(10, [256, 256, 3], [512, 512, 3], 22, min_passes=5, max_duration=30, ref_time=114),\n        SubTest(1, [1024, 1024, 3], [1024, 1024, 3], 22, min_passes=5, max_duration=30, ref_time=162)\n    ],\n    tests_micro=[",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "RESNET_SRGAN",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "RESNET_SRGAN = Test(\n    test_id=10, test_type=\"enhancement\", model=\"ResNet-SRGAN\", model_src=\"srgan.meta\", use_src=False,\n    tests_training=[\n        SubTest(5, [512, 512, 3], [512, 512, 3], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=170)\n    ],\n    tests_inference=[\n        SubTest(10, [512, 512, 3], [512, 512, 3], 22, min_passes=5, max_duration=30, ref_time=110),\n        SubTest(1, [1536, 1536, 3], [1536, 1536, 3], 22, min_passes=5, max_duration=30, ref_time=100)\n    ],",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "RESNET_DPED",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "RESNET_DPED = Test(\n    test_id=11, test_type=\"enhancement\", model=\"ResNet-DPED\", model_src=\"dped.meta\", use_src=False,\n    tests_training=[\n        SubTest(15, [128, 128, 3], [128, 128, 3], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=200)\n    ],\n    tests_inference=[\n        SubTest(10, [256, 256, 3], [256, 256, 3], 22, min_passes=5, max_duration=30, ref_time=135),\n        SubTest(1, [1024, 1024, 3], [1024, 1024, 3], 22, min_passes=5, max_duration=30, ref_time=215)\n    ],",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "U_NET",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "U_NET = Test(\n    test_id=12, test_type=\"segmentation\", model=\"U-Net\", model_src=\"unet.meta\", use_src=False,\n    tests_training=[\n        SubTest(4, [256, 256, 3], [256, 256, 3], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=240)\n    ],\n    tests_inference=[\n        SubTest(4, [512, 512, 3], [512, 512, 3], 22, min_passes=5, max_duration=30, ref_time=220),\n        SubTest(1, [1024, 1024, 3], [1024, 1024, 3], 22, min_passes=5, max_duration=30, ref_time=215)\n    ],",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "NVIDIA_SPADE",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "NVIDIA_SPADE = Test(\n    test_id=13, test_type=\"segmentation\", model=\"Nvidia-SPADE\", model_src=\"spade.meta\", use_src=False,\n    tests_training=[\n        SubTest(1, [128, 128, 3], [128, 128, 3], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=200)\n    ],\n    tests_inference=[\n        SubTest(5, [128, 128, 3], [128, 128, 3], 22, min_passes=5, max_duration=30, ref_time=110)\n    ],\n    tests_micro=[",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "ICNET",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "ICNET = Test(\n    test_id=14, test_type=\"segmentation\", model=\"ICNet\", model_src=\"icnet.meta\", use_src=False,\n    tests_training=[\n        SubTest(10, [1024, 1536, 3], [1024, 1536, 3], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=815)],\n    tests_inference=[\n        SubTest(5, [1024, 1536, 3], [1024, 1536, 3], 22, min_passes=5, max_duration=30, ref_time=270)\n    ],\n    tests_micro=[\n         SubTest(1, [1024, 1536, 3], [1024, 1536, 3], 22, min_passes=5, max_duration=30, ref_time=33.5)",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "PSPNET",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "PSPNET = Test(\n    test_id=15, test_type=\"segmentation\", model=\"PSPNet\", model_src=\"pspnet.meta\", use_src=False,\n    tests_training=[SubTest(1, [512, 512, 3], [64, 64, 3], 22, min_passes=5, max_duration=30,\n                             loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=214)],\n    tests_inference=[\n        SubTest(5, [720, 720, 3], [90, 90, 3], 22, min_passes=5, max_duration=30, ref_time=472)\n    ],\n    tests_micro=[\n        SubTest(1, [720, 720, 3], [90, 90, 3], 22, min_passes=5, max_duration=30, ref_time=103)\n    ]",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEEPLAB",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "DEEPLAB = Test(\n    test_id=16, test_type=\"segmentation\", model=\"DeepLab\", model_src=\"deeplab.meta\", use_src=False,\n    tests_training=[\n        SubTest(1, [384, 384, 3], [48, 48, 3], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=191)\n    ],\n    tests_inference=[\n        SubTest(2, [512, 512, 3], [64, 64, 3], 22, min_passes=5, max_duration=30, ref_time=125)\n    ],\n    tests_micro=[",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "PIXEL_RNN",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "PIXEL_RNN = Test(\n    test_id=17, test_type=\"enhancement\", model=\"Pixel-RNN\", model_src=\"pixel_rnn.meta\", use_src=True,\n    tests_training=[\n        SubTest(10, [64, 64, 3], [64, 64, 3], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=1756)\n    ],\n    tests_inference=[\n        SubTest(50, [64, 64, 3], [64, 64, 3], 22, min_passes=5, max_duration=30, ref_time=665)\n    ],\n    tests_micro=[]",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM_SENTIMENT",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "LSTM_SENTIMENT = Test(\n    test_id=18, test_type=\"nlp\", model=\"LSTM-Sentiment\", model_src=\"lstm.meta\", use_src=True,\n    tests_training=[\n        SubTest(10, [1024, 300], [2], 22, min_passes=5, max_duration=30,\n                loss_function=\"MSE\", optimizer=\"Adam\", learning_rate=1e-4, ref_time=728)\n    ],\n    tests_inference=[\n        SubTest(100, [1024, 300], [2], 22, min_passes=5, max_duration=30, ref_time=547)\n    ],\n    tests_micro=[]",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "GNMT_TRANSLATION",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "GNMT_TRANSLATION = Test(\n    test_id=19, test_type=\"nlp-text\", model=\"GNMT-Translation\", model_src=\"gnmt.meta\", use_src=False,\n    tests_training=[],\n    tests_inference=[\n        SubTest(1, [1, 20], [None], 22, min_passes=5, max_duration=30, ref_time=193)\n    ],\n    tests_micro=[]\n)\nBENCHMARK_TESTS = [\n    MOBILENET_V2,",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "BENCHMARK_TESTS",
+        "kind": 5,
+        "importPath": "ai_benchmark.config",
+        "description": "ai_benchmark.config",
+        "peekOfCode": "BENCHMARK_TESTS = [\n    MOBILENET_V2,\n    INCEPTION_V3,\n    INCEPTION_V4,\n    INCEPTION_RESNET_V2,\n    RESNET_V2_50,\n    RESNET_V2_152,\n    VGG_16,\n    SRCNN_9_5_5,\n    VGG_19_SUPER_RES,",
+        "detail": "ai_benchmark.config",
+        "documentation": {}
+    },
+    {
+        "label": "MainArgumentParser",
+        "kind": 6,
+        "importPath": "ai_benchmark.console",
+        "description": "ai_benchmark.console",
+        "peekOfCode": "class MainArgumentParser(argparse.ArgumentParser):\n    \"\"\"Parser with AI Benchmark arguments\"\"\"\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.add_argument(\n            '-c', '--use-cpu', default=None, action='store_true',\n            help='Run the tests on CPUs  (if tensorflow-gpu is installed)'\n        )\n        self.add_argument(\n            '-C', '--cpu-cores', default=None, type=int,",
+        "detail": "ai_benchmark.console",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ai_benchmark.console",
+        "description": "ai_benchmark.console",
+        "peekOfCode": "def main():\n    \"\"\"Main runner for shell\"\"\"\n    from ai_benchmark import AIBenchmark\n    parsed_args = parser.parse_known_args()[0]\n    benchmark = AIBenchmark(\n        use_cpu=parsed_args.use_cpu,\n        verbose_level=parsed_args.verbose,\n        seed=parsed_args.seed,\n    )\n    test_info, results = benchmark.run(",
+        "detail": "ai_benchmark.console",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_IDS",
+        "kind": 5,
+        "importPath": "ai_benchmark.console",
+        "description": "ai_benchmark.console",
+        "peekOfCode": "TEST_IDS = [str(t.id) for t in config.BENCHMARK_TESTS]\nclass MainArgumentParser(argparse.ArgumentParser):\n    \"\"\"Parser with AI Benchmark arguments\"\"\"\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.add_argument(\n            '-c', '--use-cpu', default=None, action='store_true',\n            help='Run the tests on CPUs  (if tensorflow-gpu is installed)'\n        )\n        self.add_argument(",
+        "detail": "ai_benchmark.console",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "ai_benchmark.console",
+        "description": "ai_benchmark.console",
+        "peekOfCode": "parser = MainArgumentParser()\ndef main():\n    \"\"\"Main runner for shell\"\"\"\n    from ai_benchmark import AIBenchmark\n    parsed_args = parser.parse_known_args()[0]\n    benchmark = AIBenchmark(\n        use_cpu=parsed_args.use_cpu,\n        verbose_level=parsed_args.verbose,\n        seed=parsed_args.seed,\n    )",
+        "detail": "ai_benchmark.console",
+        "documentation": {}
+    },
+    {
+        "label": "AIBenchmark",
+        "kind": 6,
+        "importPath": "ai_benchmark.core",
+        "description": "ai_benchmark.core",
+        "peekOfCode": "class AIBenchmark:\n    def __init__(self, use_cpu=None, verbose_level=1, seed=42):\n        self.tf_ver_2 = utils.parse_version(tf.__version__) > utils.parse_version('1.99')\n        self.verbose = verbose_level\n        logger.setLevel(30 - self.verbose*10)\n        utils.print_intro()\n        warnings.filterwarnings('ignore')\n        try:\n            if verbose_level < 3:\n                os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'",
+        "detail": "ai_benchmark.core",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ai_benchmark.core",
+        "description": "ai_benchmark.core",
+        "peekOfCode": "logger = logging.getLogger('ai_benchmark')\nclass AIBenchmark:\n    def __init__(self, use_cpu=None, verbose_level=1, seed=42):\n        self.tf_ver_2 = utils.parse_version(tf.__version__) > utils.parse_version('1.99')\n        self.verbose = verbose_level\n        logger.setLevel(30 - self.verbose*10)\n        utils.print_intro()\n        warnings.filterwarnings('ignore')\n        try:\n            if verbose_level < 3:",
+        "detail": "ai_benchmark.core",
+        "documentation": {}
+    },
+    {
+        "label": "DiagonalLSTMCell",
+        "kind": 6,
+        "importPath": "ai_benchmark.model_utils",
+        "description": "ai_benchmark.model_utils",
+        "peekOfCode": "class DiagonalLSTMCell(rnn_cell.RNNCell):\n    def __init__(self, hidden_dims, height, channel):\n        self._num_unit_shards = 1\n        self._forget_bias = 1.0\n        self._height = height\n        self._channel = channel\n        self._hidden_dims = hidden_dims\n        self._num_units = self._hidden_dims * self._height\n        self._state_size = self._num_units * 2\n        self._output_size = self._num_units",
+        "detail": "ai_benchmark.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "conv2d",
+        "kind": 2,
+        "importPath": "ai_benchmark.model_utils",
+        "description": "ai_benchmark.model_utils",
+        "peekOfCode": "def conv2d(inputs, num_outputs, kernel_shape, mask_type, scope=\"conv2d\"):\n    with tf.compat.v1.variable_scope(scope):\n        WEIGHT_INITIALIZER = tf.compat.v1.keras.initializers.VarianceScaling(scale=1.0, mode=\"fan_avg\", distribution=\"uniform\")\n        batch_size, height, width, channel = inputs.get_shape().as_list()\n        kernel_h, kernel_w = kernel_shape\n        center_h = kernel_h // 2\n        center_w = kernel_w // 2\n        weights_shape = [kernel_h, kernel_w, channel, num_outputs]\n        weights = tf.compat.v1.get_variable(\"weights\", weights_shape,\n                                            tf.float32, WEIGHT_INITIALIZER, None)",
+        "detail": "ai_benchmark.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "conv1d",
+        "kind": 2,
+        "importPath": "ai_benchmark.model_utils",
+        "description": "ai_benchmark.model_utils",
+        "peekOfCode": "def conv1d(inputs, num_outputs, kernel_size, scope=\"conv1d\"):\n    with tf.compat.v1.variable_scope(scope):\n        WEIGHT_INITIALIZER = tf.compat.v1.keras.initializers.VarianceScaling(scale=1.0, mode=\"fan_avg\", distribution=\"uniform\")\n        batch_size, height, _, channel = inputs.get_shape().as_list()\n        kernel_h, kernel_w = kernel_size, 1\n        weights_shape = [kernel_h, kernel_w, channel, num_outputs]\n        weights = tf.compat.v1.get_variable(\"weights\", weights_shape, tf.float32, WEIGHT_INITIALIZER, None)\n        outputs = tf.nn.conv2d(input=inputs, filters=weights, strides=[1, 1, 1, 1], padding=\"SAME\", name='outputs')\n        biases = tf.compat.v1.get_variable(\"biases\", [num_outputs,], tf.float32, tf.compat.v1.zeros_initializer(), None)\n        outputs = tf.nn.bias_add(outputs, biases, name='outputs_plus_b')",
+        "detail": "ai_benchmark.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "skew",
+        "kind": 2,
+        "importPath": "ai_benchmark.model_utils",
+        "description": "ai_benchmark.model_utils",
+        "peekOfCode": "def skew(inputs, scope=\"skew\"):\n    with tf.compat.v1.name_scope(scope):\n        batch, height, width, channel = inputs.get_shape().as_list()\n        rows = tf.split(inputs, height, 1)\n        new_width = width + height - 1\n        new_rows = []\n        for idx, row in enumerate(rows):\n            transposed_row = tf.transpose(tf.squeeze(row, [1]), perm=[0, 2, 1])\n            squeezed_row = tf.reshape(transposed_row, [-1, width])\n            padded_row = tf.pad(squeezed_row, paddings=((0, 0), (idx, height - 1 - idx)))",
+        "detail": "ai_benchmark.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "unskew",
+        "kind": 2,
+        "importPath": "ai_benchmark.model_utils",
+        "description": "ai_benchmark.model_utils",
+        "peekOfCode": "def unskew(inputs, width=None, scope=\"unskew\"):\n    with tf.compat.v1.name_scope(scope):\n        batch, height, skewed_width, channel = inputs.get_shape().as_list()\n        width = width if width else height\n        new_rows = []\n        rows = tf.split(inputs, height, 1)\n        for idx, row in enumerate(rows):\n            new_rows.append(tf.slice(row, [0, 0, idx, 0], [-1, -1, width, -1]))\n        outputs = tf.concat(new_rows, 1, name=\"output\")\n    return outputs",
+        "detail": "ai_benchmark.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "diagonal_lstm",
+        "kind": 2,
+        "importPath": "ai_benchmark.model_utils",
+        "description": "ai_benchmark.model_utils",
+        "peekOfCode": "def diagonal_lstm(inputs, scope='diagonal_lstm'):\n    with tf.compat.v1.variable_scope(scope):\n        skewed_inputs = skew(inputs, scope=\"skewed_i\")\n        input_to_state = conv2d(skewed_inputs, 64, [1, 1], mask_type=\"b\", scope=\"i_to_s\")\n        column_wise_inputs = tf.transpose(input_to_state, perm=[0, 2, 1, 3])\n        batch, width, height, channel = column_wise_inputs.get_shape().as_list()\n        rnn_inputs = tf.reshape(column_wise_inputs, [-1, width, height * channel])\n        cell = DiagonalLSTMCell(16, height, channel)\n        outputs, states = tf.compat.v1.nn.dynamic_rnn(cell, inputs=rnn_inputs, dtype=tf.float32)\n        width_first_outputs = tf.reshape(outputs, [-1, width, height, 16])",
+        "detail": "ai_benchmark.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "diagonal_bilstm",
+        "kind": 2,
+        "importPath": "ai_benchmark.model_utils",
+        "description": "ai_benchmark.model_utils",
+        "peekOfCode": "def diagonal_bilstm(inputs, scope='diagonal_bilstm'):\n    with tf.compat.v1.variable_scope(scope):\n        def reverse(inputs):\n            return tf.reverse(inputs, [2])\n        output_state_fw = diagonal_lstm(inputs, scope='output_state_fw')\n        output_state_bw = reverse(diagonal_lstm(reverse(inputs), scope='output_state_bw'))\n        batch, height, width, channel = output_state_bw.get_shape().as_list()\n        output_state_bw_except_last = tf.slice(output_state_bw, [0, 0, 0, 0], [-1, height-1, -1, -1])\n        output_state_bw_only_last = tf.slice(output_state_bw, [0, height-1, 0, 0], [-1, 1, -1, -1])\n        dummy_zeros = tf.zeros_like(output_state_bw_only_last)",
+        "detail": "ai_benchmark.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM_Sentiment",
+        "kind": 2,
+        "importPath": "ai_benchmark.models",
+        "description": "ai_benchmark.models",
+        "peekOfCode": "def LSTM_Sentiment(input_tensor):\n    #  Reference Paper: https://www.bioinf.jku.at/publications/older/2604.pdf\n    lstmCell = tf.compat.v1.nn.rnn_cell.BasicLSTMCell(1024)\n    output_rnn, _ = tf.compat.v1.nn.dynamic_rnn(lstmCell, input_tensor, dtype=tf.float32)\n    W_fc = tf.Variable(tf.random.truncated_normal([1024, 2]))\n    b_fc = tf.Variable(tf.constant(0.1, shape=[2]))\n    output_transposed = tf.transpose(output_rnn, perm=[1, 0, 2])\n    output = tf.gather(output_transposed, int(output_transposed.get_shape()[0]) - 1)\n    return tf.identity(tf.matmul(output, W_fc) + b_fc, name=\"output\")\ndef PixelRNN(inputs):",
+        "detail": "ai_benchmark.models",
+        "documentation": {}
+    },
+    {
+        "label": "PixelRNN",
+        "kind": 2,
+        "importPath": "ai_benchmark.models",
+        "description": "ai_benchmark.models",
+        "peekOfCode": "def PixelRNN(inputs):\n    #  Reference Paper: https://arxiv.org/abs/1601.06759\n    #  Reference Code: https://github.com/carpedm20/pixel-rnn-tensorflow\n    normalized_inputs = inputs / 255.0\n    output = conv2d(normalized_inputs, 16, [7, 7], mask_type=\"a\", scope=\"conv_inputs\")\n    for idx in range(7):\n        output = diagonal_bilstm(output, scope='LSTM%d' % idx)\n    for idx in range(2):\n        output = tf.nn.relu(conv2d(output, 32, [1, 1], mask_type=\"b\", scope='CONV_OUT%d' % idx))\n    conv2d_out_logits = conv2d(output, 3, [1, 1], mask_type=\"b\", scope='conv2d_out_logits')",
+        "detail": "ai_benchmark.models",
+        "documentation": {}
+    },
+    {
+        "label": "update_info",
+        "kind": 2,
+        "importPath": "ai_benchmark.update_utils",
+        "description": "ai_benchmark.update_utils",
+        "peekOfCode": "def update_info(mode, testInfo):\n    try:\n        timestamp = getTimeStamp()\n        data = {}\n        data['tf_version'] = testInfo.tf_version\n        data['platform'] = testInfo.platform_info\n        data['cpu'] = testInfo.cpu_model\n        data['cpu_cores'] = testInfo.cpu_cores\n        data['cpu_ram'] = testInfo.cpu_ram\n        data['is_cpu_inference'] = 1 if testInfo.is_cpu_inference else 0",
+        "detail": "ai_benchmark.update_utils",
+        "documentation": {}
+    },
+    {
+        "label": "clean_symbols",
+        "kind": 2,
+        "importPath": "ai_benchmark.update_utils",
+        "description": "ai_benchmark.update_utils",
+        "peekOfCode": "def clean_symbols(s):\n    s = s.replace(\".\", \"-\")\n    s = s.replace(\"$\", \"-\")\n    s = s.replace(\"[\", \"-\")\n    s = s.replace(\"]\", \"-\")\n    s = s.replace(\"#\", \"-\")\n    s = s.replace(\"/\", \"-\")\n    return s\ndef arrayToString(scores):\n    s = \"\"",
+        "detail": "ai_benchmark.update_utils",
+        "documentation": {}
+    },
+    {
+        "label": "arrayToString",
+        "kind": 2,
+        "importPath": "ai_benchmark.update_utils",
+        "description": "ai_benchmark.update_utils",
+        "peekOfCode": "def arrayToString(scores):\n    s = \"\"\n    for score in scores:\n        score = int(score) if score >= 100 else float(round(100 * score)) / 100\n        s += str(score) + \" \"\n    return s[:-1]\ndef getTimeStamp():\n    timestamp = time.time()\n    return datetime.datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')\ndef http_connection(timeout):",
+        "detail": "ai_benchmark.update_utils",
+        "documentation": {}
+    },
+    {
+        "label": "getTimeStamp",
+        "kind": 2,
+        "importPath": "ai_benchmark.update_utils",
+        "description": "ai_benchmark.update_utils",
+        "peekOfCode": "def getTimeStamp():\n    timestamp = time.time()\n    return datetime.datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')\ndef http_connection(timeout):\n    def wrapper(f):\n        def wrapped(*args, **kwargs):\n            if not ('connection' in kwargs) or not kwargs['connection']:\n                connection = requests.Session()\n                kwargs['connection'] = connection\n            else:",
+        "detail": "ai_benchmark.update_utils",
+        "documentation": {}
+    },
+    {
+        "label": "http_connection",
+        "kind": 2,
+        "importPath": "ai_benchmark.update_utils",
+        "description": "ai_benchmark.update_utils",
+        "peekOfCode": "def http_connection(timeout):\n    def wrapper(f):\n        def wrapped(*args, **kwargs):\n            if not ('connection' in kwargs) or not kwargs['connection']:\n                connection = requests.Session()\n                kwargs['connection'] = connection\n            else:\n                connection = kwargs['connection']\n            connection.timeout = timeout\n            connection.headers.update({'Content-type': 'application/json'})",
+        "detail": "ai_benchmark.update_utils",
+        "documentation": {}
+    },
+    {
+        "label": "make_patch_request",
+        "kind": 2,
+        "importPath": "ai_benchmark.update_utils",
+        "description": "ai_benchmark.update_utils",
+        "peekOfCode": "def make_patch_request(url, data, connection):\n    response = connection.patch(url, data=data)\n    if response.ok or response.status_code == 403:\n        return response.json() if response.content else None\n    else:\n        response.raise_for_status()\n@http_connection(60)\ndef patch(url, data, connection):\n    if not url.endswith('/'):\n        url = url + '/'",
+        "detail": "ai_benchmark.update_utils",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "kind": 2,
+        "importPath": "ai_benchmark.update_utils",
+        "description": "ai_benchmark.update_utils",
+        "peekOfCode": "def patch(url, data, connection):\n    if not url.endswith('/'):\n        url = url + '/'\n    dsn = base64.b64decode(b'aHR0cHM6Ly9haS1iZW5jaG1hcmstYWxwaGEuZmlyZWJhc2Vpby5jb20=').decode('ascii')\n    endpoint = '%s%s%s' % (urlparse.urljoin(dsn, url), '', '.json')\n    data = json.dumps(data)\n    return make_patch_request(endpoint, data, connection=connection)",
+        "detail": "ai_benchmark.update_utils",
+        "documentation": {}
+    },
+    {
+        "label": "BENCHMARK_VERSION",
+        "kind": 5,
+        "importPath": "ai_benchmark.update_utils",
+        "description": "ai_benchmark.update_utils",
+        "peekOfCode": "BENCHMARK_VERSION = \"0-1-2\"\ndef update_info(mode, testInfo):\n    try:\n        timestamp = getTimeStamp()\n        data = {}\n        data['tf_version'] = testInfo.tf_version\n        data['platform'] = testInfo.platform_info\n        data['cpu'] = testInfo.cpu_model\n        data['cpu_cores'] = testInfo.cpu_cores\n        data['cpu_ram'] = testInfo.cpu_ram",
+        "detail": "ai_benchmark.update_utils",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkResults",
+        "kind": 6,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "class BenchmarkResults:\n    def __init__(self):\n        self.results_inference_norm = []\n        self.results_training_norm = []\n        self.results_inference = []\n        self.results_training = []\n        self.inference_score = 0\n        self.training_score = 0\n        self.ai_score = 0\nclass Result:",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Result",
+        "kind": 6,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "class Result:\n    def __init__(self, mean, std):\n        self.mean = mean\n        self.std = std\nclass PublicResults:\n    def __init__(self):\n        self.test_results = {}\n        self.ai_score = None\n        self.inference_score = None\n        self.training_score = None",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "PublicResults",
+        "kind": 6,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "class PublicResults:\n    def __init__(self):\n        self.test_results = {}\n        self.ai_score = None\n        self.inference_score = None\n        self.training_score = None\nclass TestInfo:\n    def __init__(self, _type, precision, use_cpu, verbose, cpu_cores, inter_threads, intra_threads):\n        from ai_benchmark import __version__\n        self._type = _type",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestInfo",
+        "kind": 6,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "class TestInfo:\n    def __init__(self, _type, precision, use_cpu, verbose, cpu_cores, inter_threads, intra_threads):\n        from ai_benchmark import __version__\n        self._type = _type\n        self.version = __version__\n        self.py_version = sys.version\n        self.tf_version = get_tf_version()\n        self.tf_ver_2 = parse_version(self.tf_version) > parse_version('1.99')\n        self.platform_info = get_platform_info()\n        self.cpu_model = get_cpu_model()",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_time_seconds",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_time_seconds():\n    return int(time.time())\ndef get_time_ms():\n    return int(round(time.time() * 1000))\ndef resize_image(image, dimensions):\n    image = np.asarray(image)\n    height = image.shape[0]\n    width = image.shape[1]\n    aspect_ratio_image = float(width) / height\n    aspect_ratio_target = float(dimensions[1]) / dimensions[0]",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_time_ms",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_time_ms():\n    return int(round(time.time() * 1000))\ndef resize_image(image, dimensions):\n    image = np.asarray(image)\n    height = image.shape[0]\n    width = image.shape[1]\n    aspect_ratio_image = float(width) / height\n    aspect_ratio_target = float(dimensions[1]) / dimensions[0]\n    if aspect_ratio_target == aspect_ratio_image:\n        image = Image.fromarray(image).resize((dimensions[1], dimensions[0]))",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "resize_image",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def resize_image(image, dimensions):\n    image = np.asarray(image)\n    height = image.shape[0]\n    width = image.shape[1]\n    aspect_ratio_image = float(width) / height\n    aspect_ratio_target = float(dimensions[1]) / dimensions[0]\n    if aspect_ratio_target == aspect_ratio_image:\n        image = Image.fromarray(image).resize((dimensions[1], dimensions[0]))\n    elif aspect_ratio_image < aspect_ratio_target:\n        new_height = int(float(width) / aspect_ratio_target)",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def load_data(test_type, dimensions):\n    data = None\n    if test_type == \"classification\":\n        data = np.zeros(dimensions)\n        for j in range(dimensions[0]):\n            image = Image.open(path.join(path.dirname(__file__), \"data/classification/\" + str(j) + \".jpg\"))\n            image = resize_image(image, [dimensions[1], dimensions[2]])\n            data[j] = image\n    if test_type == \"enhancement\":\n        data = np.zeros(dimensions)",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_targets",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def load_targets(test_type, dimensions):\n    data = None\n    if test_type == \"classification\" or test_type == \"nlp\":\n        data = np.zeros(dimensions)\n        for j in range(dimensions[0]):\n            data[j, np.random.randint(dimensions[1])] = 1\n    if test_type == \"enhancement\":\n        data = np.zeros(dimensions)\n        for j in range(dimensions[0]):\n            image = Image.open(path.join(path.dirname(__file__), \"data/enhancement/\" + str(j) + \".jpg\"))",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "construct_optimizer",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def construct_optimizer(sess, output_, target_, loss_function, optimizer, learning_rate, tf_ver_2):\n    if loss_function == \"MSE\":\n        loss_ = 2 * tf.nn.l2_loss(output_ - target_)\n    if optimizer == \"Adam\":\n        if tf_ver_2:\n            optimizer = tf.compat.v1.train.AdamOptimizer(learning_rate)\n        else:\n            optimizer = tf.train.AdamOptimizer(learning_rate)\n    train_step = optimizer.minimize(loss_)\n    if tf_ver_2:",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_src",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_model_src(test, testInfo, session):\n    train_vars = None\n    if testInfo.tf_ver_2 and test.use_src:\n        # Bypassing TensorFlow 2.0+ RNN Bugs\n        if test.model == \"LSTM-Sentiment\":\n            input_ = tf.compat.v1.placeholder(tf.float32, [None, 1024, 300], name=\"input\")\n            output_ = LSTM_Sentiment(input_)\n        if test.model == \"Pixel-RNN\":\n            input_ = tf.compat.v1.placeholder(tf.float32, [None, 64, 64, 3], name=\"input\")\n            output_ = PixelRNN(input_)",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "compute_stats",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def compute_stats(results):\n    if len(results) > 1:\n        results = results[1:]\n    return np.mean(results), np.std(results)\ndef print_test_results(prefix, batch_size, dimensions, mean, std):\n    if std > 1 and mean > 100:\n        prt_str = \"%s | batch=%d, size=%dx%d: %.d ± %.d ms\" % (\n            prefix, batch_size, dimensions[1], dimensions[2], round(mean), round(std))\n    else:\n        prt_str = \"%s | batch=%d, size=%dx%d: %.1f ± %.1f ms\" % (",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "print_test_results",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def print_test_results(prefix, batch_size, dimensions, mean, std):\n    if std > 1 and mean > 100:\n        prt_str = \"%s | batch=%d, size=%dx%d: %.d ± %.d ms\" % (\n            prefix, batch_size, dimensions[1], dimensions[2], round(mean), round(std))\n    else:\n        prt_str = \"%s | batch=%d, size=%dx%d: %.1f ± %.1f ms\" % (\n            prefix, batch_size, dimensions[1], dimensions[2], mean, std)\n    logger.info(prt_str)\ndef print_intro():\n    import ai_benchmark",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "print_intro",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def print_intro():\n    import ai_benchmark\n    logger.info(\">>   AI-Benchmark - %s\", ai_benchmark.__version__)\n    logger.info(\">>   Let the AI Games begin\")\ndef print_test_info(testInfo):\n    logger.info(\"*  TF Version: %s\", testInfo.tf_version)\n    logger.info(\"*  Platform: %s\", testInfo.platform_info)\n    logger.info(\"*  CPU: %s\", testInfo.cpu_model)\n    logger.info(\"*  CPU RAM: %s GB\", testInfo.cpu_ram)\n    if not testInfo.is_cpu_inference:",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "print_test_info",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def print_test_info(testInfo):\n    logger.info(\"*  TF Version: %s\", testInfo.tf_version)\n    logger.info(\"*  Platform: %s\", testInfo.platform_info)\n    logger.info(\"*  CPU: %s\", testInfo.cpu_model)\n    logger.info(\"*  CPU RAM: %s GB\", testInfo.cpu_ram)\n    if not testInfo.is_cpu_inference:\n        for gpu_id, gpu_info in enumerate(testInfo.gpu_devices):\n            logger.info(\"*  GPU/%s: %s\", gpu_id, gpu_info[0])\n            logger.info(\"*  GPU RAM: %s GB\", gpu_info[1])\n        logger.info(\"*  CUDA Version: %s\", testInfo.cuda_version)",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_tf_version",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_tf_version():\n    try:\n        return tf.__version__\n    except:\n        pass\n    return \"N/A\"\ndef get_platform_info():\n    platform_info = \"N/A\"\n    try:\n        return platform.platform()",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_platform_info",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_platform_info():\n    platform_info = \"N/A\"\n    try:\n        return platform.platform()\n    except:\n        pass\n    return platform_info\ndef get_cpu_model():\n    try:\n        return cpuinfo.get_cpu_info()['brand_raw']",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_cpu_model",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_cpu_model():\n    try:\n        return cpuinfo.get_cpu_info()['brand_raw']\n    except:\n        return \"N/A\"\ndef get_num_cpu_cores():\n    try:\n        return multiprocessing.cpu_count()\n    except:\n        return -1",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_num_cpu_cores",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_num_cpu_cores():\n    try:\n        return multiprocessing.cpu_count()\n    except:\n        return -1\ndef get_cpu_ram():\n    try:\n        return str(round(virtual_memory().total / (1024. ** 3)))\n    except:\n        return \"N/A\"",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_cpu_ram",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_cpu_ram():\n    try:\n        return str(round(virtual_memory().total / (1024. ** 3)))\n    except:\n        return \"N/A\"\ndef is_cpu_build():\n    is_cpu_build = True\n    try:\n        if tf.test.gpu_device_name():\n            is_cpu_build = False",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_cpu_build",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def is_cpu_build():\n    is_cpu_build = True\n    try:\n        if tf.test.gpu_device_name():\n            is_cpu_build = False\n    except:\n        pass\n    return is_cpu_build\ndef get_gpu_models():\n    gpu_models = [[\"N/A\", \"N/A\"]]",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_gpu_models",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_gpu_models():\n    gpu_models = [[\"N/A\", \"N/A\"]]\n    gpu_id = 0\n    try:\n        tf_gpus = str(device_lib.list_local_devices())\n        while tf_gpus.find('device_type: \"GPU\"') != -1 or tf_gpus.find('device_type: \"XLA_GPU\"') != -1:\n            device_type_gpu = tf_gpus.find('device_type: \"GPU\"')\n            if device_type_gpu == -1:\n                device_type_gpu = tf_gpus.find('device_type: \"XLA_GPU\"')\n            tf_gpus = tf_gpus[device_type_gpu:]",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_cuda_info",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def get_cuda_info():\n    cuda_version = \"N/A\"\n    cuda_build = \"N/A\"\n    try:\n        cuda_info = str(subprocess.check_output([\"nvcc\", \"--version\"]))\n        cuda_info = cuda_info[cuda_info.find(\"release\"):]\n        cuda_version = cuda_info[cuda_info.find(\" \") + 1:cuda_info.find(\",\")]\n        cuda_build = cuda_info[cuda_info.find(\",\") + 2:cuda_info.find(\"\\\\\")]\n    except:\n        pass",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "print_scores",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def print_scores(testInfo, public_results):\n    c_inference = 10000\n    c_training = 10000\n    if testInfo._type == \"full\":\n        inference_score = geometrical_mean(testInfo.results.results_inference_norm)\n        if np.isnan(inference_score):\n            inference_score = 0\n        training_score = geometrical_mean(testInfo.results.results_training_norm)\n        if np.isnan(training_score):\n            training_score = 0",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "geometrical_mean",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def geometrical_mean(results):\n    results = np.asarray(results)\n    try:\n        return results.prod() ** (1.0 / len(results))\n    except ZeroDivisionError:\n        return np.nan\ndef run_tests(\n        training,\n        inference,\n        micro,",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_tests",
+        "kind": 2,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "def run_tests(\n        training,\n        inference,\n        micro,\n        verbose,\n        use_cpu,\n        precision,\n        _type,\n        start_dir,\n        test_ids=None,",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TEST_DURATION",
+        "kind": 5,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "MAX_TEST_DURATION = 100\nlogger = logging.getLogger('ai_benchmark')\nclass BenchmarkResults:\n    def __init__(self):\n        self.results_inference_norm = []\n        self.results_training_norm = []\n        self.results_inference = []\n        self.results_training = []\n        self.inference_score = 0\n        self.training_score = 0",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "ai_benchmark.utils",
+        "description": "ai_benchmark.utils",
+        "peekOfCode": "logger = logging.getLogger('ai_benchmark')\nclass BenchmarkResults:\n    def __init__(self):\n        self.results_inference_norm = []\n        self.results_training_norm = []\n        self.results_inference = []\n        self.results_training = []\n        self.inference_score = 0\n        self.training_score = 0\n        self.ai_score = 0",
+        "detail": "ai_benchmark.utils",
+        "documentation": {}
+    },
+    {
+        "label": "REQUIRED_PACKAGES",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "REQUIRED_PACKAGES = [\n    'numpy',\n    'psutil',\n    'py-cpuinfo',\n    'pillow',\n    'setuptools',\n    'requests',\n]\nwith open(\"README.md\", \"r\") as fh:\n    long_description = fh.read()",
+        "detail": "setup",
+        "documentation": {}
+    }
+]
