@@ -1,8 +1,41 @@
 [project]
 name = "new-ai-benchmark"
 version = "2.3.0"
+authors = [
+    { name = "Andrey Ignatov", email = "andrey@vision.ee.ethz.ch" }
+]
+maintainers = [
+    "Johnny Núñez <jnunezca11@alumnes.ub.edu>",
+]
+description = "AI Benchmark is an open source python library for evaluating AI performance of various hardware platforms, including CPUs, GPUs and TPUs."
+[tool.poetry]
+readme = "README.md"
+license = "MIT"
+keywords = ["AI", "Benchmark", "Tensorflow", "Machine Learning", "Inference", "Training"]
+classifiers = [
+    'Intended Audience :: Developers',
+    'Intended Audience :: Education',
+    'Intended Audience :: Science/Research',
+    'Intended Audience :: Information Technology',
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
+    'Programming Language :: Python :: 3.11',
+    'Operating System :: OS Independent',
+    'Topic :: Scientific/Engineering',
+    'Topic :: Scientific/Engineering :: Artificial Intelligence',
+    'Topic :: Software Development :: Testing',
+    'Topic :: System :: Benchmark'
+]
+dependencies = [
+    "numpy",
+    "psutil",
+    "py-cpuinfo",
+    "pillow",
+    "setuptools",
+    "requests"
+]
+
 [build-system]
 requires = ["setuptools>=69.0.2", "setuptools_scm[toml]>=8.0.4"]
 build-backend = "setuptools.build_meta"
-
-[tool.setuptools_scm]
