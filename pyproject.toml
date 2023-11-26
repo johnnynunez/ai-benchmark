@@ -11,6 +11,7 @@ description = "AI Benchmark is an open source python library for evaluating AI p
 
 license = {text = "MIT License"}
 [tool.poetry]
+readme = "README.md"
 license = "MIT"
 keywords = ["AI", "Benchmark", "Tensorflow", "Machine Learning", "Inference", "Training"]
 classifiers = [
