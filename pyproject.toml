@@ -10,9 +10,7 @@ maintainers = [
 description = "AI Benchmark is an open source python library for evaluating AI performance of various hardware platforms, including CPUs, GPUs and TPUs."
 
 license = {text = "MIT License"}
-[tool.poetry]
 readme = "README.md"
-license = "MIT"
 keywords = ["AI", "Benchmark", "Tensorflow", "Machine Learning", "Inference", "Training"]
 classifiers = [
     'Intended Audience :: Developers',
@@ -35,7 +33,8 @@ dependencies = [
     "py-cpuinfo",
     "pillow",
     "setuptools",
-    "requests"
+    "requests",
+    "pypandoc",
 ]
 
 [build-system]
