@@ -5,11 +5,12 @@ authors = [
     { name = "Andrey Ignatov", email = "andrey@vision.ee.ethz.ch" }
 ]
 maintainers = [
-    "Johnny Núñez <jnunezca11@alumnes.ub.edu>",
+    { name = "Johnny Núñez", email = "jnunezca11@alumnes.ub.edu" }
 ]
 description = "AI Benchmark is an open source python library for evaluating AI performance of various hardware platforms, including CPUs, GPUs and TPUs."
+
+license = {text = "MIT License"}
 [tool.poetry]
-readme = "README.md"
 license = "MIT"
 keywords = ["AI", "Benchmark", "Tensorflow", "Machine Learning", "Inference", "Training"]
 classifiers = [
