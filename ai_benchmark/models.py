@@ -9,7 +9,7 @@ def LSTM_Sentiment(input_tensor):
 
     #  Reference Paper: https://www.bioinf.jku.at/publications/older/2604.pdf
 
-    lstmCell = tf.compat.v1.nn.rnn_cell.BasicLSTMCell(1024)
+    lstmCell = tf.compat.v1.nn.rnn_cell.LSTMCell(1024)
     output_rnn, _ = tf.compat.v1.nn.dynamic_rnn(lstmCell, input_tensor, dtype=tf.float32)
 
     W_fc = tf.Variable(tf.random.truncated_normal([1024, 2]))
